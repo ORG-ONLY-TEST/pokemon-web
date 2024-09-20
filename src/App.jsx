@@ -10,12 +10,15 @@ function App() {
             <p>All about pokemon data</p>
             <div>
                 <h1>Bulbasur</h1>
+                <button>Delete</button>
             </div>
             <div>
                 <h1>Squirtle</h1>
+                <button>Delete</button>
             </div>
             <div>
                 <h1>Charmander</h1>
+                <button>Delete</button>
             </div>
         </>
     );
