@@ -7,6 +7,7 @@ function App() {
     return (
         <>
             <h1>Pokemon</h1>
+            <p>All about pokemon data</p>
         </>
     );
 }
