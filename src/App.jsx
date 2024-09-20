@@ -8,6 +8,15 @@ function App() {
         <>
             <h1>Pokemon</h1>
             <p>All about pokemon data</p>
+            <div>
+                <h1>Bulbasur</h1>
+            </div>
+            <div>
+                <h1>Squirtle</h1>
+            </div>
+            <div>
+                <h1>Charmander</h1>
+            </div>
         </>
     );
 }
